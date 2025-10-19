@@ -1,4 +1,4 @@
-# Comparing BERT Variants for Sensitive Information Classification in Portuguese
+# Limits and Surprises of Cross-Lingual BERT Under Data Scarcity: A Portuguese Case Study in Sensitive-Text Classification
 
 This repository contains text classification implementations using different BERT model variants with Portuguese datasets.
 
